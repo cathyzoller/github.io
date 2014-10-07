@@ -16,7 +16,7 @@ exclude:
 - script
 - vendor
 
-markdown: rdiscount
+
 
 github:
   username: github/cathyzoller
